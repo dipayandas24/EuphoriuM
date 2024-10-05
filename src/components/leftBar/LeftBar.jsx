@@ -13,11 +13,31 @@ import Tutorials from "../../assets/11.png";
 import Courses from "../../assets/12.png";
 import Fund from "../../assets/13.png";
 import { AuthContext } from "../../context/authContext";
-import { useContext } from "react";
+import { useContext, useState, useEffect } from "react";
+import { doc, getDoc } from "firebase/firestore";
+import { db, auth } from "../../firebaseConfig"; 
 
 const LeftBar = () => {
-
+  
   const { currentUser } = useContext(AuthContext);
+  const [displayName, setDisplayName] = useState("");
+
+  useEffect(() => {
+    const fetchUserData = async () => {
+      if (currentUser) {
+        const userDoc = doc(db, "users", currentUser.uid);
+        const docSnap = await getDoc(userDoc);
+
+        if (docSnap.exists()) {
+          setDisplayName(docSnap.data().displayName || "User");
+        } else {
+          console.log("No such document!");
+        }
+      }
+    };
+
+    fetchUserData();
+  }, [currentUser]);
 
   return (
     <div className="leftBar">
@@ -28,7 +48,7 @@ const LeftBar = () => {
               src="https://i.pinimg.com/736x/96/d5/48/96d54878ddb9b403c8f6fa379a9f38fa.jpg"
               alt=""
             />
-            <span>Dipayan Das</span>
+            <span>{displayName || "User"}</span>
           </div>
           <div className="item">
             <img src={Friends} alt="" />

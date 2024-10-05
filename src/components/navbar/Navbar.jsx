@@ -71,7 +71,7 @@ const Navbar = () => {
         </div>
       </div>
       <div className="right">
-      <LogoutOutlinedIcon onClick={handleLogout} style={{ cursor: 'pointer' }} />
+        <LogoutOutlinedIcon onClick={handleLogout} style={{ cursor: 'pointer' }} />
         <PersonOutlinedIcon />
         <EmailOutlinedIcon />
         <NotificationsOutlinedIcon />
