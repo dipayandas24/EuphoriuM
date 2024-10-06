@@ -1,0 +1,376 @@
+<svg width="750" height="375" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <rect width="1000" height="500" fill="#e0e6fe"/>
+
+        
+        <g transform="translate(0,0) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(100,0) scale(1)"> 
+            <path d="M0 100H100L0 0V100Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(200,0) scale(1)"> 
+            <path opacity="0.2" d="M0 100H100L0 0V100Z" fill="#c4ceff"/>
+<rect x="25" y="25" width="50" height="50" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(300,0) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#ffffff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#ffffff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#ffffff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#ffffff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(400,0) scale(1)"> 
+            <path d="M26.9103 79.8397C41.555 94.4844 65.2986 94.4844 79.9433 79.8397L26.9103 26.8067C12.2656 41.4514 12.2656 65.1951 26.9103 79.8397Z" fill="#ffffff"/>
+<path opacity="0.2" d="M79.5897 27.1603C64.945 12.5156 41.2013 12.5156 26.5567 27.1603L79.5897 80.1933C94.2344 65.5486 94.2344 41.8049 79.5897 27.1603Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(500,0) scale(1)"> 
+            <rect width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 100 0)" fill="#ffffff"/>
+<rect x="50" y="50" width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 50 50)" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(600,0) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<circle cx="30" cy="30" r="15" fill="#c4ceff"/>
+<circle opacity="0.5" cx="30" cy="70" r="15" fill="#c4ceff"/>
+<circle cx="70" cy="30" r="15" fill="#c4ceff"/>
+<circle cx="70" cy="70" r="15" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(700,0) scale(1)"> 
+            <rect width="50" height="50" fill="#c4ceff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 100 0)" fill="#c4ceff"/>
+<rect x="50" y="50" width="50" height="50" fill="#c4ceff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 50 50)" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(800,0) scale(1)"> 
+            <path d="M0 100H100L0 0V100Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(900,0) scale(1)"> 
+            <rect width="50" height="50" fill="#c4ceff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 100 0)" fill="#c4ceff"/>
+<rect x="50" y="50" width="50" height="50" fill="#c4ceff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 50 50)" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(0,100) scale(1)"> 
+            <rect width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 100 0)" fill="#ffffff"/>
+<rect x="50" y="50" width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 50 50)" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(100,100) scale(1)"> 
+            <path d="M26.9103 79.8397C41.555 94.4844 65.2986 94.4844 79.9433 79.8397L26.9103 26.8067C12.2656 41.4514 12.2656 65.1951 26.9103 79.8397Z" fill="#c4ceff"/>
+<path opacity="0.2" d="M79.5897 27.1603C64.945 12.5156 41.2013 12.5156 26.5567 27.1603L79.5897 80.1933C94.2344 65.5486 94.2344 41.8049 79.5897 27.1603Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(200,100) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#ffffff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#ffffff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#ffffff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#ffffff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(300,100) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(400,100) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(500,100) scale(1)"> 
+            <rect width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 100 0)" fill="#ffffff"/>
+<rect x="50" y="50" width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 50 50)" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(600,100) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#ffffff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#ffffff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#ffffff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#ffffff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(700,100) scale(1)"> 
+            <path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M100 0H0V100H100V0ZM50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75Z" fill="#c4ceff"/>
+<circle cx="50" cy="50" r="15" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(800,100) scale(1)"> 
+            <path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M100 0H0V100H100V0ZM50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75Z" fill="#c4ceff"/>
+<circle cx="50" cy="50" r="15" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(900,100) scale(1)"> 
+            <path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M100 0H0V100H100V0ZM50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75Z" fill="#ffffff"/>
+<circle cx="50" cy="50" r="15" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(0,200) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(100,200) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(200,200) scale(1)"> 
+            <path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M100 0H0V100H100V0ZM50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75Z" fill="#c4ceff"/>
+<circle cx="50" cy="50" r="15" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(300,200) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(400,200) scale(1)"> 
+            <path d="M0 100H100L0 0V100Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(500,200) scale(1)"> 
+            <path opacity="0.2" d="M0 100H100L0 0V100Z" fill="#c4ceff"/>
+<rect x="25" y="25" width="50" height="50" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(600,200) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#ffffff"/>
+<circle cx="30" cy="30" r="15" fill="#ffffff"/>
+<circle opacity="0.5" cx="30" cy="70" r="15" fill="#ffffff"/>
+<circle cx="70" cy="30" r="15" fill="#ffffff"/>
+<circle cx="70" cy="70" r="15" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(700,200) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#ffffff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#ffffff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#ffffff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#ffffff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(800,200) scale(1)"> 
+            <rect width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 100 0)" fill="#ffffff"/>
+<rect x="50" y="50" width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 50 50)" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(900,200) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(0,300) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#ffffff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#ffffff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#ffffff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#ffffff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(100,300) scale(1)"> 
+            <path d="M0 100H100L0 0V100Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(200,300) scale(1)"> 
+            <rect width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 100 0)" fill="#ffffff"/>
+<rect x="50" y="50" width="50" height="50" fill="#ffffff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 50 50)" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(300,300) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(400,300) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(500,300) scale(1)"> 
+            <path d="M0 100H100L0 0V100Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(600,300) scale(1)"> 
+            <path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M100 0H0V100H100V0ZM50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75Z" fill="#c4ceff"/>
+<circle cx="50" cy="50" r="15" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(700,300) scale(1)"> 
+            <path d="M26.9103 79.8397C41.555 94.4844 65.2986 94.4844 79.9433 79.8397L26.9103 26.8067C12.2656 41.4514 12.2656 65.1951 26.9103 79.8397Z" fill="#ffffff"/>
+<path opacity="0.2" d="M79.5897 27.1603C64.945 12.5156 41.2013 12.5156 26.5567 27.1603L79.5897 80.1933C94.2344 65.5486 94.2344 41.8049 79.5897 27.1603Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(800,300) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<circle cx="30" cy="30" r="15" fill="#c4ceff"/>
+<circle opacity="0.5" cx="30" cy="70" r="15" fill="#c4ceff"/>
+<circle cx="70" cy="30" r="15" fill="#c4ceff"/>
+<circle cx="70" cy="70" r="15" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(900,300) scale(1)"> 
+            <path d="M0 100H100L0 0V100Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(0,400) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#ffffff"/>
+<circle cx="30" cy="30" r="15" fill="#ffffff"/>
+<circle opacity="0.5" cx="30" cy="70" r="15" fill="#ffffff"/>
+<circle cx="70" cy="30" r="15" fill="#ffffff"/>
+<circle cx="70" cy="70" r="15" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(100,400) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#ffffff"/>
+<circle cx="30" cy="30" r="15" fill="#ffffff"/>
+<circle opacity="0.5" cx="30" cy="70" r="15" fill="#ffffff"/>
+<circle cx="70" cy="30" r="15" fill="#ffffff"/>
+<circle cx="70" cy="70" r="15" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(200,400) scale(1)"> 
+            <path opacity="0.2" d="M0 100H100L0 0V100Z" fill="#ffffff"/>
+<rect x="25" y="25" width="50" height="50" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(300,400) scale(1)"> 
+            <rect opacity="0.2" width="100" height="100" fill="#c4ceff"/>
+<path d="M51 25L100 0V50L51 25Z" fill="#c4ceff"/>
+<path d="M51 75L100 50V100L51 75Z" fill="#c4ceff"/>
+<path d="M2 25L51 0V50L2 25Z" fill="#c4ceff"/>
+<path d="M2 75L51 50V100L2 75Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(400,400) scale(1)"> 
+            <path d="M0 100H100L0 0V100Z" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(500,400) scale(1)"> 
+            <path opacity="0.2" d="M0 100H100L0 0V100Z" fill="#ffffff"/>
+<rect x="25" y="25" width="50" height="50" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(600,400) scale(1)"> 
+            <path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M100 0H0V100H100V0ZM50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75Z" fill="#ffffff"/>
+<circle cx="50" cy="50" r="15" fill="#ffffff"/>
+        </g>
+    
+
+        <g transform="translate(700,400) scale(1)"> 
+            <rect width="50" height="50" fill="#c4ceff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 100 0)" fill="#c4ceff"/>
+<rect x="50" y="50" width="50" height="50" fill="#c4ceff"/>
+<rect opacity="0.2" width="50" height="50" transform="matrix(-1 0 0 1 50 50)" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(800,400) scale(1)"> 
+            <path d="M26.9103 79.8397C41.555 94.4844 65.2986 94.4844 79.9433 79.8397L26.9103 26.8067C12.2656 41.4514 12.2656 65.1951 26.9103 79.8397Z" fill="#c4ceff"/>
+<path opacity="0.2" d="M79.5897 27.1603C64.945 12.5156 41.2013 12.5156 26.5567 27.1603L79.5897 80.1933C94.2344 65.5486 94.2344 41.8049 79.5897 27.1603Z" fill="#c4ceff"/>
+        </g>
+    
+
+        <g transform="translate(900,400) scale(1)"> 
+            <path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M100 0H0V100H100V0ZM50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75Z" fill="#c4ceff"/>
+<circle cx="50" cy="50" r="15" fill="#c4ceff"/>
+        </g>
+    
+
+        
+
+      </svg>
