@@ -44,7 +44,7 @@ npm install
 
 ### 2. Add Environment Variables
 
-- Create a file named .env.local in the root directory of your project.
+- Create a file named `.env.local` in the root directory of your project.
 - Add your Firebase configuration:
 
 ```plaintext
