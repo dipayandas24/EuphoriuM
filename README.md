@@ -2,6 +2,12 @@
 
 EuphoriuM is a social media web application that allows users to connect, share, and engage with one another in a creative space. 
 
+### Login Page Ui
+![Login Page Ui](./src/assets/LoginPageUi.png)
+
+### Home Page Ui
+![Home Page Ui](./src/assets/HomePageUi.png)
+
 ## Technologies Used
 
 - **Frontend:** React, Vite, CSS/Sass
